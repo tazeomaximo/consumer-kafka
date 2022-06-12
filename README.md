@@ -3,7 +3,7 @@
 ### Demo consumer Kafka com SpringDoc
 
 * [Acessar a aplicação](http://localhost:8081/pgto-consumer/swagger-ui/index.html)
-* [SpringDoc] (https://springdoc.org/#demos)
+* [SpringDoc](https://springdoc.org/#demos)
 
 ### Reference Documentation
 For further reference, please consider the following sections:
